@@ -1,0 +1,36 @@
+[submodule "lab-01"]
+	path = lab-01
+	url = git@github.com:cpre308-future/lab-01.git
+[submodule "lab-02"]
+	path = lab-02
+	url = git@github.com:cpre308-future/lab-02.git
+[submodule "lab-03"]
+	path = lab-03
+	url = git@github.com:cpre308-future/lab-03.git
+[submodule "lab-04"]
+	path = lab-04
+	url = git@github.com:cpre308-future/lab-04.git
+[submodule "lab-05"]
+	path = lab-05
+	url = git@github.com:cpre308-future/lab-05.git
+[submodule "lab-06"]
+	path = lab-06
+	url = git@github.com:cpre308-future/lab-06.git
+[submodule "lab-07"]
+	path = lab-07
+	url = git@github.com:cpre308-future/lab-07.git
+[submodule "lab-08"]
+	path = lab-08
+	url = git@github.com:cpre308-future/lab-08.git
+[submodule "lab-09"]
+	path = lab-09
+	url = git@github.com:cpre308-future/lab-09.git
+[submodule "lab-10"]
+	path = lab-10
+	url = git@github.com:cpre308-future/lab-10.git
+[submodule "lab-11"]
+	path = lab-11
+	url = git@github.com:cpre308-future/lab-11.git
+[submodule "lab-12"]
+	path = lab-12
+	url = git@github.com:cpre308-future/lab-12.git
